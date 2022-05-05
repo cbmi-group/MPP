@@ -1,7 +1,7 @@
 # Semi-Supervised Segmentation of Cell Image Stacks for Electron Microscopy
 This repository contains source code of Semi-supervised Segmentation for EM images ([ISBI 2022](https://ieeexplore.ieee.org/document/9761519)).
 
-![image](https://github.com/cbmi-group/MPP/img.jpg)
+![image](https://github.com/cbmi-group/MPP/blob/main/img.jpg)
 
 ## Getting Started
 ### Install Dependencies
